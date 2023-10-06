@@ -1,0 +1,17 @@
+/Users/rus_mermaid/Desktop/Hard_Drive_SSD/Macbook_ProM1_2022/CP_projects/MSU_Principal_Component_Analysis/MSU_PCA/MSU_PCA/bin/Debug/net6.0/MSU_PCA
+/Users/rus_mermaid/Desktop/Hard_Drive_SSD/Macbook_ProM1_2022/CP_projects/MSU_Principal_Component_Analysis/MSU_PCA/MSU_PCA/bin/Debug/net6.0/MSU_PCA.deps.json
+/Users/rus_mermaid/Desktop/Hard_Drive_SSD/Macbook_ProM1_2022/CP_projects/MSU_Principal_Component_Analysis/MSU_PCA/MSU_PCA/bin/Debug/net6.0/MSU_PCA.runtimeconfig.json
+/Users/rus_mermaid/Desktop/Hard_Drive_SSD/Macbook_ProM1_2022/CP_projects/MSU_Principal_Component_Analysis/MSU_PCA/MSU_PCA/bin/Debug/net6.0/MSU_PCA.dll
+/Users/rus_mermaid/Desktop/Hard_Drive_SSD/Macbook_ProM1_2022/CP_projects/MSU_Principal_Component_Analysis/MSU_PCA/MSU_PCA/bin/Debug/net6.0/MSU_PCA.pdb
+/Users/rus_mermaid/Desktop/Hard_Drive_SSD/Macbook_ProM1_2022/CP_projects/MSU_Principal_Component_Analysis/MSU_PCA/MSU_PCA/obj/Debug/net6.0/MSU_PCA.csproj.AssemblyReference.cache
+/Users/rus_mermaid/Desktop/Hard_Drive_SSD/Macbook_ProM1_2022/CP_projects/MSU_Principal_Component_Analysis/MSU_PCA/MSU_PCA/obj/Debug/net6.0/MSU_PCA.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rus_mermaid/Desktop/Hard_Drive_SSD/Macbook_ProM1_2022/CP_projects/MSU_Principal_Component_Analysis/MSU_PCA/MSU_PCA/obj/Debug/net6.0/MSU_PCA.AssemblyInfoInputs.cache
+/Users/rus_mermaid/Desktop/Hard_Drive_SSD/Macbook_ProM1_2022/CP_projects/MSU_Principal_Component_Analysis/MSU_PCA/MSU_PCA/obj/Debug/net6.0/MSU_PCA.AssemblyInfo.cs
+/Users/rus_mermaid/Desktop/Hard_Drive_SSD/Macbook_ProM1_2022/CP_projects/MSU_Principal_Component_Analysis/MSU_PCA/MSU_PCA/obj/Debug/net6.0/MSU_PCA.csproj.CoreCompileInputs.cache
+/Users/rus_mermaid/Desktop/Hard_Drive_SSD/Macbook_ProM1_2022/CP_projects/MSU_Principal_Component_Analysis/MSU_PCA/MSU_PCA/obj/Debug/net6.0/MSU_PCA.dll
+/Users/rus_mermaid/Desktop/Hard_Drive_SSD/Macbook_ProM1_2022/CP_projects/MSU_Principal_Component_Analysis/MSU_PCA/MSU_PCA/obj/Debug/net6.0/refint/MSU_PCA.dll
+/Users/rus_mermaid/Desktop/Hard_Drive_SSD/Macbook_ProM1_2022/CP_projects/MSU_Principal_Component_Analysis/MSU_PCA/MSU_PCA/obj/Debug/net6.0/MSU_PCA.pdb
+/Users/rus_mermaid/Desktop/Hard_Drive_SSD/Macbook_ProM1_2022/CP_projects/MSU_Principal_Component_Analysis/MSU_PCA/MSU_PCA/obj/Debug/net6.0/MSU_PCA.genruntimeconfig.cache
+/Users/rus_mermaid/Desktop/Hard_Drive_SSD/Macbook_ProM1_2022/CP_projects/MSU_Principal_Component_Analysis/MSU_PCA/MSU_PCA/obj/Debug/net6.0/ref/MSU_PCA.dll
+/Users/rus_mermaid/Desktop/Hard_Drive_SSD/Macbook_ProM1_2022/CP_projects/MSU_Principal_Component_Analysis/MSU_PCA/MSU_PCA/bin/Debug/net6.0/MathNet.Numerics.dll
+/Users/rus_mermaid/Desktop/Hard_Drive_SSD/Macbook_ProM1_2022/CP_projects/MSU_Principal_Component_Analysis/MSU_PCA/MSU_PCA/obj/Debug/net6.0/MSU_PCA.csproj.CopyComplete
