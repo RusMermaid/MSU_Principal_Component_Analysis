@@ -11,17 +11,23 @@ namespace MSU_PCA
         {
             Matrix<double> X = Read_Txt2Matrix();
             Matrix<double> Sigma = X.Transpose() * X;
+            Vector<double> A = MatrixUtil.FindA(Sigma);
             
             Console.WriteLine("Matrix X:");
             Console.WriteLine(X);
             Console.WriteLine("Matrix Sigma:");
             Console.WriteLine(Sigma);
-            Console.WriteLine("Matrix Eigen values of Sigma:");
-            Console.WriteLine(MatrixUtil.Sob_Z12(Sigma));
+            //Console.WriteLine("Matrix Eigen values of Sigma:");
+            //Console.WriteLine(MatrixUtil.Sob_Z12(Sigma));
             Console.WriteLine("Matrix Eigen vectors of Sigma:");
             Console.WriteLine(MatrixUtil.Sob_V(Sigma));
+            Console.WriteLine("Vector A:");
+            Console.WriteLine(A);
         }
 
+        
+        // Function to find the eigenvector corresponding to the maximum eigenvalue
+        
         
         static Matrix<double> Read_Txt2Matrix()
         {

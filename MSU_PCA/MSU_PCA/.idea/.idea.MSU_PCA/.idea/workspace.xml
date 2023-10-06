@@ -5,12 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="83c4471d-3859-441a-adb3-c7b08f58fd37" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.dockerignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PCA/MatrixUtil.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PCA/PCA1/Artists.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PCA/PCA1/ArtistsClean.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PCA/coursework.tex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.MSU_PCA/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.MSU_PCA/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PCA/MatrixUtil.cs" beforeDir="false" afterPath="$PROJECT_DIR$/PCA/MatrixUtil.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Debug/net6.0/MSU_PCA.dll" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Debug/net6.0/MSU_PCA.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Debug/net6.0/MSU_PCA.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Debug/net6.0/MSU_PCA.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/net6.0/MSU_PCA.dll" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net6.0/MSU_PCA.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/net6.0/MSU_PCA.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net6.0/MSU_PCA.pdb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,7 +66,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1696591305633</updated>
-      <workItem from="1696591316104" duration="4715000" />
+      <workItem from="1696591316104" duration="6227000" />
     </task>
     <servers />
   </component>
