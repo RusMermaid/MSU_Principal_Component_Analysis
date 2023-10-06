@@ -32,17 +32,14 @@ namespace MSU_PCA
         static Matrix<double> Read_Txt2Matrix()
         {
             string[] lines = File.ReadAllLines(PathMaker("PCA/PCA1/ArtistsClean.txt"));
-            int numRows = lines.Length;
-            int numCols = lines[0].Split(',').Length;
-            var matrix = Matrix<double>.Build.Dense(numRows, numCols);
+            var matrix = Matrix<double>.Build.Dense(lines.Length, lines[0].Split(',').Length);
 
-            for (int i = 0; i < numRows; i++)
+            for (int i = 0; i < lines.Length; i++)
             {
-                string[] values = lines[i].Split(',');
-                for (int j = 0; j < numCols; j++)
+                for (int j = 0; j < lines[0].Split(',').Length; j++)
                 {
                     double value;
-                    if (double.TryParse(values[j], out value))
+                    if (double.TryParse(lines[i].Split(',')[j], out value))
                     {
                         matrix[i, j] = value;
                     }
